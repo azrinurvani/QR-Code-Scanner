@@ -1,0 +1,2 @@
+rootProject.name='QR Code Scanner Using Mobile Vision API'
+include ':app'
